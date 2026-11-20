@@ -1,10 +1,11 @@
 {
-  "name": "backend_practical_piet24cd020_chiraggupta",
+  "name": "Backend_exam_PIET24CD010_Archit_Agrawal
+",
   "version": "1.0.0",
   "description": "Backend exam - Task 1 and Task 2",
   "scripts": {
-    "task1": "node file/A1.js",
-    "task2": "node file/A2.js"
+    "task1": "node file/Task 1.js",
+    "task2": "node file/Task 2.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
